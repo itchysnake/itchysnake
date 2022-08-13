@@ -8,20 +8,7 @@
     <b>My name's Bailey and I build things.</b>
     <br/>
     <br/>
-    I like solving complex problems, and want to do work which makes a real difference. So far, I've found that place to be at some weird intersection between finance, technology, and blockchain.
-    <br/>
-    <br/>
-    Above all, I strongly believe in personal autonomy. I've undertaken a mission to write smart contracts which enable real personal autonomy. Imagine concepts like:
-    <br/>
-    <br/>
-    * investing into people directly (<a href="https://github.com/itchysnake/genex">GENEX</a>), 
-    <br/>
-    * actually owning your money (work in progress),
-    <br/>
-    * an insurance provider who settles claims quickly and quietly (coming soon).
-    </br>
-    </br>
-    I'm both a solutions architect, and an in-the-trenches developer. Currently studying in 🇪🇸 and am the proud co-founder of <a href="https://github.com/genex-tech">@genex</a>.
+    I like solving complex problems, and want to do work which makes a real difference. So far, I've found that place to be at some weird intersection between finance, technology, and blockchain. Above all, I strongly believe in personal autonomy. I've undertaken a mission to write smart contracts which enable real personal autonomy. I'm both a solutions architect, and an in-the-trenches developer. Currently studying in 🇪🇸 and am the proud co-founder of <a href="https://github.com/genex-tech">@genex</a>.
   </p>
 </samp>
 
