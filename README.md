@@ -6,8 +6,8 @@
 <samp>
   <p align=”justify” style="text-indent:40px;">
     <b>My name's Bailey and I build things.</b>
-    </br>
-    </br>
+    <br/>
+    <br/>
     I like solving complex problems, and want to do work which makes a real difference. So far, I've found that place to be at some weird intersection between finance, technology, and blockchain. I truly believe the future is being built on-chain, and am excited to be a part of it.
     
     Above all, I strongly believe in personal autonomy. I've undertaken a mission to write smart contracts which enable real personal autonomy. Imagine concepts like:
