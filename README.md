@@ -5,10 +5,12 @@
 <img align="right" src="https://img.icons8.com/ios-filled/100/000000/freedom.png"/>
 <samp>
   <p align=”justify” style="text-indent:40px;">
-    <b>My name's Bailey and I believe in personal autonomy.</b>
+    <b>My name's Bailey and I build things.</b>
     </br>
     </br>
-    The world needs new, decentralised solutions, so people can take control over aspects of their lives. I've undertaken a mission to help by writing smart contracts which enable real personal autonomy. Imagine concepts like:
+    I like solving complex problems, and want to do work which makes a real difference. So far, I've found that place to be at some weird intersection between finance, technology, and blockchain. I truly believe the future is being built on-chain, and am excited to be a part of it.
+    
+    Above all, I strongly believe in personal autonomy. I've undertaken a mission to write smart contracts which enable real personal autonomy. Imagine concepts like:
     <br/>
     <br/>
     * investing into people directly (<a href="https://github.com/itchysnake/genex">GENEX</a>), 
@@ -18,7 +20,7 @@
     * an insurance provider who settles claims quickly and quietly (coming soon).
     </br>
     </br>
-    I'm both a solutions architect, and an in-the-trenches developer. I like solving complex problems, and want to do work which means something to <i>everyone</i>! Currently studying in 🇪🇸 and am the proud co-founder of <a href="https://github.com/genex-tech">@genex</a>.
+    I'm both a solutions architect, and an in-the-trenches developer. Currently studying in 🇪🇸 and am the proud co-founder of <a href="https://github.com/genex-tech">@genex</a>.
   </p>
 </samp>
 
