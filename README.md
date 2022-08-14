@@ -2,7 +2,7 @@
 
 ##
 
-<img align="right" src="https://img.icons8.com/ios-filled/100/000000/freedom.png"/>
+<img align="right" src="https://img.icons8.com/ios-filled/100/000000/weightlift.png"/>
 <samp>
   <p align=”justify” style="text-indent:40px;">
     <b>My name's Bailey and I build things.</b>
