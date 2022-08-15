@@ -75,28 +75,24 @@
 
   <!-- arbi -->
   <a href="https://offchainlabs.com/">
-    <img src="https://img.icons8.com/ios-filled/50/000000/a.png"/>
-  </a>
-
-  <!-- infura -->
-  <a href="https://infura.io/">
-    <img src="https://img.icons8.com/ios-filled/50/000000/connectdevelop.png"/>
-  </a>
-
-  <!-- eth-Brownie -->
-  <a href="https://eth-brownie.readthedocs.io/en/stable/">
-    <img src="https://img.icons8.com/external-vitaliy-gorbachev-fill-vitaly-gorbachev/50/000000/external-brownie-sweet-vitaliy-gorbachev-fill-vitaly-gorbachev.png"/>
-  </a>
-  
-  <!-- ganache -->
-  <a href="https://trufflesuite.com/ganache/">
-    <img src="https://img.icons8.com/ios-filled/50/000000/orthogonal-view--v1.png"/>
+    <img src="https://img.icons8.com/ios-filled/50/000000/dryclean-with-any-solvent.png"/>
   </a>
 
   <!-- node js-->
   <a href="https://nodejs.org/en/">
     <img src="https://img.icons8.com/windows/50/00000/node-js.png"/>
   </a>
+
+  <!-- eth-Brownie -->
+  <a href="https://eth-brownie.readthedocs.io/en/stable/">
+    <img src="https://img.icons8.com/ios-filled/50/000000/confectionery.png"/>
+  </a>
+  
+  <!-- ganache -->
+  <a href="https://trufflesuite.com/ganache/">
+    <img src="https://img.icons8.com/ios-filled/50/000000/sugar-cubes.png"/>
+  </a>
+
 </div>
 
 ##
