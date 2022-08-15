@@ -40,18 +40,63 @@
 
 <samp>Technology</samp>
 <div float="left">
-  <a href="https://ethereum.org/en/">
-    <img src="https://img.icons8.com/ios-filled/50/000000/ethereum.png"/>
-  </a>
-
-  <a href="https://www.linux.org/">
-   <img src="https://img.icons8.com/ios-filled/50/000000/linux.png"/>
-  </a>
-
+  <!-- git -->
   <a href="https://git-scm.com/">
    <img src="https://img.icons8.com/ios-filled/50/000000/git.png"/>
   </a>
 
+  <!-- linux -->
+  <a href="https://www.linux.org/">
+   <img src="https://img.icons8.com/ios-filled/50/000000/linux.png"/>
+  </a>
+
+  <!-- nginx -->
+  <a href="https://www.nginx.com/">
+    <img src="https://img.icons8.com/color/50/000000/nginx.png"/>
+  </a>
+
+  <!-- msft azure -->
+  <a href="https://portal.azure.com/">
+    <img src="https://img.icons8.com/color/50/000000/azure-1.png"/>
+  </a>
+
+  <!-- gcp -->
+  <a href="https://cloud.google.com"/>
+    <img src="https://img.icons8.com/ios-filled/50/000000/google-cloud-platform.png"/>
+  </a>
+</div>
+
+<samp>Blockchain</samp>
+<div float="left">
+  <!-- ethereum -->
+  <a href="https://ethereum.org/en/">
+    <img src="https://img.icons8.com/ios-filled/50/000000/ethereum.png"/>
+  </a>
+
+  <!-- arbi -->
+  <a href="https://offchainlabs.com/">
+    <img src="https://img.icons8.com/ios-filled/50/000000/a.png"/>
+  </a>
+
+  <!-- infura -->
+  <a href="https://infura.io/">
+    <img src="https://img.icons8.com/ios-filled/50/000000/connectdevelop.png"/>
+  </a>
+
+  <!-- eth-Brownie -->
+  <a href="https://eth-brownie.readthedocs.io/en/stable/">
+    <img src="https://img.icons8.com/external-vitaliy-gorbachev-fill-vitaly-gorbachev/50/000000/external-brownie-sweet-vitaliy-gorbachev-fill-vitaly-gorbachev.png"/>
+  </a>
+  
+  <!-- ganache -->
+  <a href="https://trufflesuite.com/ganache/">
+    <img src="https://img.icons8.com/ios-filled/50/000000/orthogonal-view--v1.png"/>
+  </a>
+
+  <!-- node js-->
+  <a href="https://nodejs.org/en/">
+    <img src="https://img.icons8.com/windows/50/00000/node-js.png"/>
+  </a>
 </div>
 
 ##
