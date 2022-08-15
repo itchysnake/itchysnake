@@ -52,12 +52,12 @@
 
   <!-- nginx -->
   <a href="https://www.nginx.com/">
-    <img src="https://img.icons8.com/color/50/020202/nginx.png"/>
+    <img src="https://github.com/itchysnake/itchysnake/blob/master/rec/nginx-50.png"/>
   </a>
 
   <!-- msft azure -->
   <a href="https://portal.azure.com/">
-    <img src="https://img.icons8.com/color/50/020202/azure-1.png"/>
+    <img src="https://github.com/itchysnake/itchysnake/blob/master/rec/azure-50.png"/>
   </a>
 
   <!-- gcp -->
