@@ -44,9 +44,14 @@
     <img src="https://img.icons8.com/ios-filled/50/000000/ethereum.png"/>
   </a>
 
-  <a href="https://ubuntu.com/">
-   <img src="https://img.icons8.com/ios-filled/50/000000/ubuntu.png"/>
+  <a href="https://www.linux.org/">
+   <img src="https://img.icons8.com/ios-filled/50/000000/linux.png"/>
   </a>
+
+  <a href="https://git-scm.com/">
+   <img src="https://img.icons8.com/ios-filled/50/000000/git.png"/>
+  </a>
+
 </div>
 
 ##
