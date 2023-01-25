@@ -2,6 +2,7 @@
 
 ##
 
+<img style="float: right;" align="right" src="https://github.com/itchysnake/itchysnake/blob/master/rec/dev.gif"/>
 <samp>
   <p align=”justify” style="text-indent:40px;">
     <b>My name's Bailey and I build things.</b>
@@ -43,7 +44,7 @@
 
 ### **Featured Projects**
 
-<img src="https://github.com/itchysnake/itchysnake/blob/master/rec/black_genex.gif" width="150" align="right"/>
+<img style="float: right;" src="https://github.com/itchysnake/itchysnake/blob/master/rec/black_genex.gif" width="150" align="right"/>
 
 <p align=”justify” style="text-indent:40px;"> 
   <a href="https://github.com/itchysnake/genex"><b>🌳 GENEX</b></a>: A decentralised exchange deployed on <a href="https://portal.arbitrum.one">Arbitrum</a> and Ethereum mainnet. Invest in human talent from all over the world, by buying human equity tokens. Launch a token and start trading! Read the <a href="https://genex.app/whitepaper">whitepaper</a>, or the <a href="https://github.com/itchysnake/genex">source code</a>.
