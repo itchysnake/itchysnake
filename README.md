@@ -2,41 +2,17 @@
 
 ##
 
-<table>
-  <tr>
-    <td width="70%">
-      <samp>
-        <p align=”justify” style="text-indent:40px;">
-          <b>My name's Bailey and I build things.</b>
-          <br/><br/>
-          I'm a software engineer who builds anything with interesting purpose. I design systems, write the systems, and deploy the systems. As my projects have gotten more complicated, so has the lower end of the stack in order to support it!
-          <br/><br/>
-          I currently contribute to two reserach labs (<a href="https://github.com/genex-tech">GENEX</a>, <a href="https://https://github.com/feather-marketing">Feather</a>) lead a small team of developers, and work in finance! I'm also finishing up my studies in 🇪🇸.
-          <br/><br/>
-          Check out some of repo's and org's for more of my work - don't hesitate to reach out.
-        </p>
-      </samp>
-    </td>
-    <td width="30%">
-      <img style="vertical-align:middle horizontal-align:right"" src="https://github.com/itchysnake/itchysnake/blob/master/rec/dev.gif"/>
-    </td>
-  </tr>
-</table>
-
-<div>
-  <img style="vertical-align:middle" align="right" src="https://github.com/itchysnake/itchysnake/blob/master/rec/dev.gif"/>
-  <samp>
-    <p align=”justify” style="text-indent:40px;">
-      <b>My name's Bailey and I build things.</b>
-      <br/><br/>
-      I'm a software engineer who builds anything with interesting purpose. I design systems, write the systems, and deploy the systems. As my projects have gotten more complicated, so has the lower end of the stack in order to support it!
-      <br/><br/>
-      I currently contribute to two reserach labs (<a href="https://github.com/genex-tech">GENEX</a>, <a href="https://https://github.com/feather-marketing">Feather</a>) lead a small team of developers, and work in finance! I'm also finishing up my studies in 🇪🇸.
-      <br/><br/>
-      Check out some of repo's and org's for more of my work - don't hesitate to reach out.
-    </p>
-  </samp>
-</div>
+<samp>
+  <p align=”justify” style="text-indent:40px;">
+    <b>My name's Bailey and I build things.</b>
+    <br/><br/>
+    I'm a software engineer who builds anything with interesting purpose. I design systems, write the systems, and deploy the systems. As my projects have gotten more complicated, so has the lower end of the stack in order to support it!
+    <br/><br/>
+    I currently contribute to two reserach labs (<a href="https://github.com/genex-tech">GENEX</a>, <a href="https://https://github.com/feather-marketing">Feather</a>) lead a small team of developers, and work in finance! I'm also finishing up my studies in 🇪🇸.
+    <br/><br/>
+    Check out some of repo's and org's for more of my work - don't hesitate to reach out.
+  </p>
+</samp>
 
 ##
 
@@ -67,7 +43,7 @@
 
 ### **Featured Projects**
 
-<img vertical-align="middle" src="https://github.com/itchysnake/itchysnake/blob/master/rec/black_genex.gif" width="150" align="right"/>
+<img src="https://github.com/itchysnake/itchysnake/blob/master/rec/black_genex.gif" width="150" align="right"/>
 
 <p align=”justify” style="text-indent:40px;"> 
   <a href="https://github.com/itchysnake/genex"><b>🌳 GENEX</b></a>: A decentralised exchange deployed on <a href="https://portal.arbitrum.one">Arbitrum</a> and Ethereum mainnet. Invest in human talent from all over the world, by buying human equity tokens. Launch a token and start trading! Read the <a href="https://genex.app/whitepaper">whitepaper</a>, or the <a href="https://github.com/itchysnake/genex">source code</a>.
