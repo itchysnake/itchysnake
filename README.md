@@ -4,6 +4,7 @@
 
 <table>
   <tr>
+    <td width="70%">
       <samp>
         <p align=”justify” style="text-indent:40px;">
           <b>My name's Bailey and I build things.</b>
@@ -15,9 +16,10 @@
           Check out some of repo's and org's for more of my work - don't hesitate to reach out.
         </p>
       </samp>
-      <td>
-        <img style="vertical-align:middle horizontal-align:right"" src="https://github.com/itchysnake/itchysnake/blob/master/rec/dev.gif"/>
-      </td>
+    </td>
+    <td width="30%">
+      <img style="vertical-align:middle horizontal-align:right"" src="https://github.com/itchysnake/itchysnake/blob/master/rec/dev.gif"/>
+    </td>
   </tr>
 </table>
 
