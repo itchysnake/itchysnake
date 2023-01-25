@@ -2,16 +2,16 @@
 
 ##
 
-<img align="right" src="https://img.icons8.com/ios-filled/100/000000/weightlift.png"/>
+<img align="right" src="https://github.com/itchysnake/itchysnake/blob/master/rec/dev.gif"/>
 <samp>
   <p align=”justify” style="text-indent:40px;">
     <b>My name's Bailey and I build things.</b>
     <br/>
     <br/>
     I'm a software engineer who builds anything with interesting purpose. I design systems, write the systems, and deploy the systems. As my projects have gotten more complicated, so has the lower end of the stack in order to support it!
-
-    I currently contribute to two reserach labs, <a href="https://github.com/genex-tech">GENEX</a>, and <a https://https://github.com/feather-marketing>Feather</a>, lead a small team of developers, and work in finance! I'm also finishing up my studies in 🇪🇸.
-
+    <br/>
+    I currently contribute to two reserach labs, <a href="https://github.com/genex-tech">GENEX</a>, and <a href="https://https://github.com/feather-marketing">Feather</a>, lead a small team of developers, and work in finance! I'm also finishing up my studies in 🇪🇸.
+    <br/>
     Check out some of repo's and org's for more of my work - don't hesitate to reach out.
   </p>
 </samp>
@@ -38,7 +38,7 @@
 
 <samp>Blockchain</samp>
 <div float="left">
-    <img src="https://img.icons8.com/ios-filled/50/000000/ethereum.png"/>
+    <img src="https://img.icons8.com/color/48/null/ethereum.png"/>
 </div>
 
 ##
@@ -53,6 +53,7 @@
   <a href="https://github.com/itchysnake/genex"><b>🌳 GENEX</b></a>: A decentralised exchange deployed on <a href="https://portal.arbitrum.one">Arbitrum</a> and Ethereum mainnet. Invest in human talent from all over the world, by buying human equity tokens. Launch a token and start trading! Read the <a href="https://genex.app/whitepaper">whitepaper</a>, or the <a href="https://github.com/itchysnake/genex">source code</a>.
   <br/><br/>
   <a href="https://github.com/itchysnake/aegis"><b>🛡 Aegis</b></a>: A multi-dimensional asset valuation engine for capital market securities. Estimate rates, debt, equity, and derivatives with data provision from <a href="https://alpaca.markets/">Alpaca</a>. Build your trading algorithm with reliable, <a href="https://github.com/itchysnake/aegis">open source</a> tools.
+  <br/><br/>
   <a href="https://github.com/feather-marketing/featherbot"><b>🪶 Feather</b></a>: A toolset for digital marketing professionals to simplify data collection, processing, and decision-making. Focused around SEO but can be extended to content generation and general auditing. Check out the <a href="https://github.com/feather-marketing/featherbot">repo</a>!
 </p>
 
