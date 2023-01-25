@@ -8,7 +8,11 @@
     <b>My name's Bailey and I build things.</b>
     <br/>
     <br/>
-    I like solving complex problems, and want to do work which makes a real difference. So far, I've found that place to be at some weird intersection between finance, technology, and blockchain. Above all, I strongly believe in personal autonomy. I've undertaken a mission to write smart contracts which enable real personal autonomy. I'm both a solutions architect, and an in-the-trenches developer. Currently studying in 🇪🇸 and am the proud co-founder of <a href="https://github.com/genex-tech">@genex</a>.
+    I'm a software engineer who builds anything with interesting purpose. I design systems, write the systems, and deploy the systems. As my projects have gotten more complicated, so has the lower end of the stack in order to support it!
+
+    I currently contribute to two reserach labs, <a href="https://github.com/genex-tech">GENEX</a>, and <a https://https://github.com/feather-marketing>Feather</a>, lead a small team of developers, and work in finance! I'm also finishing up my studies in 🇪🇸.
+
+    Check out some of repo's and org's for more of my work - don't hesitate to reach out.
   </p>
 </samp>
 
@@ -17,82 +21,24 @@
 ### **Languages and Technologies**
 <samp>Languages</samp>
 <div float="left">
-  <a href="https://www.python.org/">
-    <img src="https://img.icons8.com/ios-filled/50/000000/python.png"/>
-  </a>
-
-  <a href="https://docs.soliditylang.org/en/v0.8.16/">
-    <img src="https://img.icons8.com/ios-filled/50/000000/solidity.png"/>
-  </a>
-
-  <a href="https://www.postgresql.org/">
-    <img src="https://img.icons8.com/ios-filled/50/000000/postgreesql.png"/>
-  </a>
-
-  <a href="https://www.javascript.com/">
-   <img src="https://img.icons8.com/ios-filled/50/000000/javascript.png"/>
-  </a>
-
-  <a href="https://go.dev/">
-   <img src="https://img.icons8.com/ios-filled/50/000000/golang.png"/>
-  </a>
+  <img src="https://img.icons8.com/color/48/null/python--v1.png"/>
+  <img src="https://img.icons8.com/color/48/null/solidity.png"/>
+  <img src="https://img.icons8.com/color/48/null/sql.png"/>
+  <img src="https://img.icons8.com/color/48/null/javascript--v1.png"/>
+  <img src="https://img.icons8.com/color/48/null/console.png"/>
 </div>
 
 <samp>Technology</samp>
 <div float="left">
-  <!-- git -->
-  <a href="https://git-scm.com/">
-   <img src="https://img.icons8.com/ios-filled/50/000000/git.png"/>
-  </a>
-
-  <!-- linux -->
-  <a href="https://www.linux.org/">
-   <img src="https://img.icons8.com/ios-filled/50/000000/linux.png"/>
-  </a>
-
-  <!-- nginx -->
-  <a href="https://www.nginx.com/">
-    <img src="https://github.com/itchysnake/itchysnake/blob/master/rec/nginx-50.png"/>
-  </a>
-
-  <!-- msft azure -->
-  <a href="https://portal.azure.com/">
-    <img src="https://github.com/itchysnake/itchysnake/blob/master/rec/azure-50.png"/>
-  </a>
-
-  <!-- gcp -->
-  <a href="https://cloud.google.com"/>
-    <img src="https://img.icons8.com/ios-filled/50/000000/google-cloud-platform.png"/>
-  </a>
+  <img src="https://img.icons8.com/color/48/null/git.png"/>
+  <img src="https://img.icons8.com/color/48/null/linux--v1.png"/>
+  <img src="https://img.icons8.com/color/48/null/google-cloud-platform.png"/>
+  <img src="https://img.icons8.com/color/48/null/azure-1.png"/>
 </div>
 
 <samp>Blockchain</samp>
 <div float="left">
-  <!-- ethereum -->
-  <a href="https://ethereum.org/en/">
     <img src="https://img.icons8.com/ios-filled/50/000000/ethereum.png"/>
-  </a>
-
-  <!-- arbi -->
-  <a href="https://offchainlabs.com/">
-    <img src="https://img.icons8.com/ios-filled/50/000000/dryclean-with-any-solvent.png"/>
-  </a>
-
-  <!-- node js-->
-  <a href="https://nodejs.org/en/">
-    <img src="https://img.icons8.com/windows/50/00000/node-js.png"/>
-  </a>
-
-  <!-- eth-Brownie -->
-  <a href="https://eth-brownie.readthedocs.io/en/stable/">
-    <img src="https://img.icons8.com/ios-filled/50/000000/confectionery.png"/>
-  </a>
-  
-  <!-- ganache -->
-  <a href="https://trufflesuite.com/ganache/">
-    <img src="https://img.icons8.com/ios-filled/50/000000/sugar-cubes.png"/>
-  </a>
-
 </div>
 
 ##
@@ -107,6 +53,7 @@
   <a href="https://github.com/itchysnake/genex"><b>🌳 GENEX</b></a>: A decentralised exchange deployed on <a href="https://portal.arbitrum.one">Arbitrum</a> and Ethereum mainnet. Invest in human talent from all over the world, by buying human equity tokens. Launch a token and start trading! Read the <a href="https://genex.app/whitepaper">whitepaper</a>, or the <a href="https://github.com/itchysnake/genex">source code</a>.
   <br/><br/>
   <a href="https://github.com/itchysnake/aegis"><b>🛡 Aegis</b></a>: A multi-dimensional asset valuation engine for capital market securities. Estimate rates, debt, equity, and derivatives with data provision from <a href="https://alpaca.markets/">Alpaca</a>. Build your trading algorithm with reliable, <a href="https://github.com/itchysnake/aegis">open source</a> tools.
+  <a href="https://github.com/feather-marketing/featherbot"><b>🪶 Feather</b></a>: A toolset for digital marketing professionals to simplify data collection, processing, and decision-making. Focused around SEO but can be extended to content generation and general auditing. Check out the <a href="https://github.com/feather-marketing/featherbot">repo</a>!
 </p>
 
 ##
