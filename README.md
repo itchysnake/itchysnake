@@ -9,7 +9,7 @@
     <br/><br/>
     I'm a software engineer who builds anything with interesting purpose. I design systems, write the systems, and deploy the systems. As my projects have gotten more complicated, so has the lower end of the stack in order to support it!
     <br/><br/>
-    I currently contribute to two reserach labs (<a href="https://github.com/genex-tech">GENEX</a>, <a href="https://https://github.com/feather-marketing">Feather</a>) lead a small team of developers, and work in finance! I'm also finishing up my studies in 🇪🇸.
+    I currently contribute to two reserach labs (<a href="https://github.com/genex-tech">GENEX</a>, <a href="https://https://github.com/feather-marketing">Feather</a>) lead a small team of developers working in finance.
     <br/><br/>
     Check out some of repo's and org's for more of my work - don't hesitate to reach out.
   </p>
